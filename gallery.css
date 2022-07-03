@@ -1,0 +1,33 @@
+
+.container{
+    max-width: 1300px;
+    margin:auto;
+    background:rgb(229, 206, 250);
+    overflow: auto;
+}
+.gallery {
+    margin:5px;
+    border:1px solid #ccc;
+    float:left;
+    width: 390px;
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+}
+.desc{
+    padding: 15px;
+    text-align: center;
+}
+footer{
+padding: 10px;
+font-size: 17px;
+font-weight: bolder;
+text-align: center;
+background: rgb(214, 207, 207);
+color: brown;
+font-family: 'arial';
+letter-spacing: 1px;
+}
+ 
+   
